@@ -1,4 +1,4 @@
-# Module 11 Challenge
+Growth Revenue Model
 This notebook (from Google Colab) contains data preparation, analysis, and visualizations for all the time series data that the company needs to understand for growth revenue. Notebook contains the following:
 
 1. Visual depictions of seasonality (as measured by Google Search traffic) that are of interest to the company.
